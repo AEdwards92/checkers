@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/almostimplemented/checkers)](https://repl.it/github/almostimplemented/checkers)
 Checkers AI: a look at Arthur Samuel's ideas
 =====================================
 
